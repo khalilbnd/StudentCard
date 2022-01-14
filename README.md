@@ -12,13 +12,16 @@ and to generate your own card you need to complete a form (firstname / last name
 BECAREFUL : the program won't work until u complete the form 
 
 WARNING 1 : it won't generate student id if u didnt submit your school year (Génerer)
+
 ![image](https://user-images.githubusercontent.com/64180671/149507250-860d9e63-869d-4f72-97ef-5addb4999b81.png)
 
 WARNING 2 : it won't generate a card if you don't submit on case or more (Génerer la carte)
+
 ![image](https://user-images.githubusercontent.com/64180671/149507500-1b111b74-f667-4391-a7a7-5e147a3e0635.png)
 
 
 once you complete your form it will show u ur information to check it 
+
 ![image](https://user-images.githubusercontent.com/64180671/149507936-3ea3ef03-719e-40a1-9235-6141b8e91057.png)
 
 and then u have the choice to :
